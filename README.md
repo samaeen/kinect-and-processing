@@ -1,20 +1,20 @@
 # Kinect and Processing
 
 This is a list of interactive visualization projects with kinect.Some of them uses arduino as output.It uses Kinect for 
-Processing library by [Brian Chung](http://www.magicandlove.com/blog/research/kinect-for-processing-library/),arduino 
+Processing library by [Brian Chung](http://www.magicandlove.com/blog/research/kinect-for-processing-library/) , arduino 
 firmata library and opencv(just for a single code).
 
-##Kinect_arduino
+## Kinect_arduino
 
 In this folder the main target was to control servo or other outputs using processing.Another one is incomplete 
 grid visualization which was planned to be visualized with led matrix.
 
-##Kinect_interaction
+## Kinect_interaction
 
 In this folder one code uses drums and drummer class.By touching drums using hand play different sounds.There are issues
 followed by the original minim library
 
-##Kinect_visualizations
+## Kinect_visualizations
 
 These are list of different visulaizations based on kinect
 
